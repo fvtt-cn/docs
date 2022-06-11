@@ -1,6 +1,6 @@
 ---
 title: "系统/模组"
-linkTitle: "♟ 系统/模组"
+linkTitle: "🧩 系统/模组"
 weight: 31
 type: docs
 menu:
